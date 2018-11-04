@@ -9,6 +9,8 @@ Simple keypress based game automatizer
 5. Click START
 6. PROFIT
 
-# This is undetecable BUT be sure NOT to rename the window to "BOT" ;) ot something similar. That's all.
+# This is undetecable BUT be sure NOT to rename the window to "BOT" ;) or something similar. That's all.
 
 Feature requests and suggestions are welcomed!
+
+Source code will not be released until BotMate reaches a stable 1.0 version.
