@@ -1,7 +1,7 @@
-# botmate
+# BOTMATE
 Simple keypress based game automatizer
 
-# How to use:
+## How to use:
 1. Start BotMate with admin rights (not always required)
 2. Start your game
 3. Insert the game window's title into the second textbox
@@ -9,7 +9,7 @@ Simple keypress based game automatizer
 5. Click START
 6. PROFIT
 
-# This is undetecable BUT be sure NOT to rename the window to something suspicious.
+## This is undetecable BUT be sure NOT to rename the window to something suspicious.
 
 Feature requests and suggestions are welcomed!
 
