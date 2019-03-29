@@ -16,3 +16,4 @@ Feature requests and suggestions are welcomed!
 Source code will not be released until BotMate reaches a stable 1.0 version.
 
 Motivation: I couldn't find a working driverless simple but customizable key presser that I could use for a game for leveling my character while away.
+
