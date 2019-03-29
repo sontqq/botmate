@@ -9,7 +9,7 @@ Simple keypress based game automatizer
 5. Click START
 6. PROFIT
 
-# This is undetecable BUT be sure NOT to rename the window to "BOT" ;) or something similar. That's all.
+# This is undetecable BUT be sure NOT to rename the window to something suspicious.
 
 Feature requests and suggestions are welcomed!
 
