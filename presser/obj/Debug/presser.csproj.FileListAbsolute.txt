@@ -1,0 +1,15 @@
+C:\Users\sont1\source\repos\presser\presser\obj\Debug\presser.csprojAssemblyReference.cache
+C:\Users\sont1\source\repos\presser\presser\obj\Debug\presser.Properties.Resources.resources
+C:\Users\sont1\source\repos\presser\presser\obj\Debug\presser.csproj.GenerateResource.cache
+C:\Users\sont1\source\repos\presser\presser\obj\Debug\presser.csproj.CoreCompileInputs.cache
+C:\Users\sont1\source\repos\presser\presser\obj\Debug\presser.Form1.resources
+C:\Users\sont1\source\repos\presser\presser\bin\Debug\WindowsInput.dll
+C:\Users\sont1\source\repos\presser\presser\bin\Debug\WindowsInput.xml
+C:\Users\sont1\source\repos\presser\presser\obj\Debug\presser.csproj.CopyComplete
+C:\Users\sont1\source\repos\presser\presser\bin\Debug\BlackMagic.dll
+C:\Users\sont1\source\repos\presser\presser\bin\Debug\fasmdll_managed.dll
+C:\Users\sont1\source\repos\presser\presser\bin\Debug\botmate.exe.config
+C:\Users\sont1\source\repos\presser\presser\bin\Debug\botmate.exe
+C:\Users\sont1\source\repos\presser\presser\bin\Debug\botmate.pdb
+C:\Users\sont1\source\repos\presser\presser\obj\Debug\botmate.exe
+C:\Users\sont1\source\repos\presser\presser\obj\Debug\botmate.pdb
